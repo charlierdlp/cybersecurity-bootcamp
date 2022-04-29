@@ -40,7 +40,7 @@
 .db   
 .dbf     
 .odb     
-.frm     
+.frm  
 .myd     
 .myi     
 .ibd     
